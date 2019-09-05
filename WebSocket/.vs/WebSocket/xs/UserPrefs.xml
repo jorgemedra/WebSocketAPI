@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E1370E08-3757-4CFF-9531-DB94970AA25B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSocket/WebSocketServer.cs">
+    <Files>
+      <File FileName="WebSocket/WebSocketServer.cs" Line="69" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebSocket" expanded="True">
+            <Node name="Sample" expanded="True" />
+            <Node name="WebSocket" expanded="True">
+              <Node name="WebSocketServer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

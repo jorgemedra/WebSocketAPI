@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/Sample/Sample.csproj": {}
+  },
+  "projects": {
+    "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/Sample/Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/Sample/Sample.csproj",
+        "projectName": "Sample",
+        "projectPath": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/Sample/Sample.csproj",
+        "packagesPath": "/Users/jorgemedra/.nuget/packages/",
+        "outputPath": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/Sample/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jorgemedra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/WebSocket.csproj": {
+                "projectPath": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/WebSocket.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/WebSocket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/WebSocket.csproj",
+        "projectName": "WebSocket",
+        "projectPath": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/WebSocket.csproj",
+        "packagesPath": "/Users/jorgemedra/.nuget/packages/",
+        "outputPath": "/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jorgemedra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

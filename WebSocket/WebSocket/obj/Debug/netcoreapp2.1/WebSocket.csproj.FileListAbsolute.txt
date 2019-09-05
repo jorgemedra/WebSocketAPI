@@ -1,0 +1,17 @@
+/Users/jorgemedra/Projects/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.deps.json
+/Users/jorgemedra/Projects/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.dll
+/Users/jorgemedra/Projects/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.pdb
+/Users/jorgemedra/Projects/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.csproj.CoreCompileInputs.cache
+/Users/jorgemedra/Projects/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.AssemblyInfoInputs.cache
+/Users/jorgemedra/Projects/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.AssemblyInfo.cs
+/Users/jorgemedra/Projects/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.dll
+/Users/jorgemedra/Projects/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.pdb
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.deps.json
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.dll
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/bin/Debug/netcoreapp2.1/WebSocket.pdb
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.csprojAssemblyReference.cache
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.csproj.CoreCompileInputs.cache
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.AssemblyInfoInputs.cache
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.AssemblyInfo.cs
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.dll
+/Users/jorgemedra/Projects/websocket..net.lib/WebSocket/WebSocket/obj/Debug/netcoreapp2.1/WebSocket.pdb
